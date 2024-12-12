@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m @Vishesh-Krishna-S-A
-- ✨ Aspiring Software Developer
+- ✨ Software Engineer
 - 👀 I’m interested in DSA(in Java), MERN, Flutter and Machine Learning
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently brushing up MERN
 - 💞️ I’m looking to collaborate on Full-stack Web Development Projects
 - 📫 How to reach me visheshkrishnasa@gmail.com
